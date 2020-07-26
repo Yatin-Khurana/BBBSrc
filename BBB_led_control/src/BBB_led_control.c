@@ -1,13 +1,4 @@
-/*
- ============================================================================
- Name        : BBB_led_control.c
- Author      : Kiran N < niekiran@gmail.com >
- Version     : 1.0
- Copyright   : Your copyright notice
- Description : Controls the BBB user led 3 trigger and brightness values
- TODOs for Students : Make it generic for all the on board leds of the BBB
- ============================================================================
- */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
